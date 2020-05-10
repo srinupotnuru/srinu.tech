@@ -283,7 +283,7 @@ hr{
 }
 .parallax {
   /* The image used */
-  background-image: url("/img/coding.jpg");
+  background-image: url("/public/img/coding.jpg");
 
   /* Set a specific height */
   min-height: 500px; 
@@ -297,7 +297,7 @@ hr{
 }
 .parallax2 {
   /* The image used */
-  background-image: url("/img/skills.jpeg");
+  background-image: url("/public/img/skills.jpeg");
 
   /* Set a specific height */
   min-height: 500px; 
@@ -311,7 +311,7 @@ hr{
 }
 .parallax3 {
   /* The image used */
-  background-image: url("/img/projects2.jpeg");
+  background-image: url("/public/img/skills.jpeg");
 
   /* Set a specific height */
   min-height: 500px; 
