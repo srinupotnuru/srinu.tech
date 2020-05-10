@@ -311,8 +311,7 @@ hr{
 }
 .parallax3 {
   /* The image used */
-  background-image: url("/public/img/skills.jpeg");
-
+  background-image: url("/public/img/projects2.jpeg");
   /* Set a specific height */
   min-height: 500px; 
 
