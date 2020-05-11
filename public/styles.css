@@ -95,11 +95,12 @@ section.resume-section .resume-item .resume-date {
   }
 }
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color:li !important;
+   background-image: linear-gradient(-90deg, #302b63, #24243e);
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #2A2A72 !important;
 }
 
 a {
@@ -130,7 +131,7 @@ hr{
 }
 #name{
     font-family: 'Righteous', cursive;
-    font-size: 5em;
+    font-size: 4.5em;
 }
 #name1{
     font-family: 'Righteous', cursive;
@@ -260,17 +261,19 @@ hr{
 }
 .carousel-indicators{
   color: black;
-  background-color:#171738;
+  background-color:#94A187;
   
 }
 .car{
-  background-color: #7180B9;
+  background-color: #2A2A72;
 }
 .card-body{
-  background-color: #29339B;
+  background-color: #2A2A72;
+  color: white;
 }
 .card-header{
-  background-color: #6461A0;
+  background-color: #8DAB7F;
+  color:2px black solid;
 }
 .bg-p{
   
@@ -279,7 +282,8 @@ hr{
   color: wheat;
 }
 .bg-c{
-  background-color: #29339B;
+  background-color: #03012C;
+  color:whitesmoke;
 }
 .parallax {
   /* The image used */
@@ -417,4 +421,8 @@ a:hover,a:focus{
 }
 #start{
   width: 100%;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
+  
 }
